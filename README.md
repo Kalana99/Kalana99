@@ -25,7 +25,7 @@
 ### 🛠️ Technologies & Tools:
 
 <div align="center">
-  <img src="https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python&logoColor=FFD43B">
+  <img src="https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python&logoColor=345beb">
   <img src="https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
   <img src="https://img.shields.io/badge/-C%23-000?style=for-the-badge&logo=c-sharp&logoColor=239120">
   <img src="https://img.shields.io/badge/-Java-000?style=for-the-badge&logo=java&logoColor=007396">
@@ -47,10 +47,16 @@
 
 ### 📊 GitHub Stats:
 
+<br>
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kalana99&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kalana99&exclude_repo=pintos-User-programs,pintos-Thread-lab&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Top Languages" width="48%" />
+
+  | <a href="https://github.com/Kalana99/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kalana99&exclude_repo=pintos-User-programs,pintos-Thread-lab&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&card_width=350" /></a> | <img align="center" src="https://github-readme-stats.vercel.app/api?username=kalana99&show_icons=true&theme=tokyonight" /> |
+  | ------------- | ------------- |
+
 </div>
+
+<br>
 
 ---
 
