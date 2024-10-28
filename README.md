@@ -27,6 +27,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python&logoColor=345beb">
   <img src="https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+  <img src="https://img.shields.io/badge/-Go-000?style=for-the-badge&logo=go&logoColor=00ADD8">
   <img src="https://img.shields.io/badge/-C%23-000?style=for-the-badge&logo=c-sharp&logoColor=239120">
   <img src="https://img.shields.io/badge/-Java-000?style=for-the-badge&logo=java&logoColor=007396">
   <img src="https://img.shields.io/badge/-React-000?style=for-the-badge&logo=react&logoColor=61DAFB">
