@@ -40,9 +40,10 @@
   <img src="https://img.shields.io/badge/-PostgreSQL-000?style=for-the-badge&logo=postgresql&logoColor=336791">
   <img src="https://img.shields.io/badge/-MongoDB-000?style=for-the-badge&logo=mongodb&logoColor=47A248">
   <img src="https://img.shields.io/badge/-Firebase-000?style=for-the-badge&logo=firebase&logoColor=FFCA28">
-  <!-- <img src="https://img.shields.io/badge/-AWS-000?style=for-the-badge&logo=amazon-aws&logoColor=FF9900">
+  <img src="https://img.shields.io/badge/-AWS-000?style=for-the-badge&logo=amazon-aws&logoColor=FF9900">
+  <img src="https://img.shields.io/badge/-Kafka-000?style=for-the-badge&logo=apache-kafka&logoColor=231F20">
   <img src="https://img.shields.io/badge/-Docker-000?style=for-the-badge&logo=docker&logoColor=2496ED">
-  <img src="https://img.shields.io/badge/-Kubernetes-000?style=for-the-badge&logo=kubernetes&logoColor=326CE5"> -->
+  <!-- <img src="https://img.shields.io/badge/-Kubernetes-000?style=for-the-badge&logo=kubernetes&logoColor=326CE5"> -->
 </div>
 
 ---
